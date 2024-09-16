@@ -34,8 +34,8 @@ app.get("/about", (req, res) => {
 
 app.get("/help", (req, res) => {
   res.render("help", {
-    title: "cry for help",
-    message: "help me with 5,000",
+    title: "help page",
+    message: "what do you need help with?",
     name: "grace",
   });
 });

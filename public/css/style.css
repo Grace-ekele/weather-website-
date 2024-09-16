@@ -16,7 +16,7 @@ body{
     flex-grow:1;
 }
 
-.main-content p {
+.p {
     font-family:Arial
 }
 
@@ -45,7 +45,7 @@ header a{
 }
 
 .portrait{
-    width:85px
+    width:100px
 }
 
 input{
